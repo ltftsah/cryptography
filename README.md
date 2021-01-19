@@ -1,2 +1,2 @@
 # cryptography
-University assignments for crypto
+University assignments for the Cryptography and Security Protocols module
